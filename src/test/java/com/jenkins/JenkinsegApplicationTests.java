@@ -14,7 +14,7 @@ class JenkinsegApplicationTests {
 
 
 	@Test
-	void contextLoads() {
+	void1 contextLoads() {
 		logger.info("Test case executing..");
 		logger.info("Test case executing second...");
 		assertEquals(true,true);
